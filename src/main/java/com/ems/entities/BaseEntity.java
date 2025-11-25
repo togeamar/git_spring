@@ -19,7 +19,7 @@ import lombok.ToString;
  * Declares a common base class , w/o any table associated with it.
  * Add common fields here.
  */
-//Chabged by Amar
+//Chabged by Amar again
 @MappedSuperclass
 @Getter
 @Setter
